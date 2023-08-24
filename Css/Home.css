@@ -1,0 +1,90 @@
+.C1{
+    margin-top:1%;
+}
+.C2{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left:33%;
+    margin-top:0.25%;
+}
+.Legend{
+    border: none;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin-left:1000px;
+    margin-top:10%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: aqua;
+    color: white; 
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.Legend:hover {
+    background-color:red;
+    color: white;
+}
+.Legend2{
+    border: none;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin-left:1000px;
+    margin-top:10%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: aqua;
+    color: white; 
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.Legend2:hover {
+    background-color:red;
+    color: white;
+}
+.but {
+    border: none;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin-left:10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: aqua;
+    color: white; 
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.but:hover {
+    background-color:red;
+    color: white;
+}
+.Legend3{
+    color:white;
+    margin-left: -20%;
+    margin-top: 15%;
+    float: right;
+    border-width: 2px;
+    border-color: red;
+}
+.Legend4{
+    color:white;
+    margin-left: 70%;
+    margin-top: 2%;
+    float: right;
+    border-width: 2px;
+    border-color: red;
+}
+.Image{
+    margin-top: -15%;
+    float: Left;
+    margin-left: -10%;
+}
+.Image2{
+    margin-top: -15%;
+    margin-left:3%;
+}
